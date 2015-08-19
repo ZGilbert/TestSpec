@@ -1,0 +1,10 @@
+xcuserdata
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+build
+.DS_Store
+._*
+.svn
+*.xcworkspace
+Pods
+Podfile.lock
